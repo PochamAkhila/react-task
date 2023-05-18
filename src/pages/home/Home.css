@@ -1,0 +1,91 @@
+.left-side-wrapper {
+    background-color: floralwhite;
+}
+
+.role {
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.icon {
+    margin-right: 5px;
+    font-size: 18px;
+    vertical-align: middle;
+}
+
+.contact-wrapper {
+    margin-left: 20px;
+}
+
+.education-wrapper {
+    margin-left: 20px;
+}
+
+.header {
+    color: black;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.head-edu {
+    font-size: 16px;
+}
+
+.heading2 {
+    text-transform: uppercase;
+    font-size: 25px;
+    font-weight: 800;
+    color: #2d7788;
+}
+
+.para {
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.item {
+    margin-bottom: 15px;
+    overflow: hidden;
+}
+
+.theme-progress-bar {
+    background-color: #42A8C0 !important;
+}
+
+.title {
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 12px;
+}
+
+.sidebar {
+    background: #42A8C0;
+    color: #fff;
+}
+
+.profile-wrapper {
+    background: rgba(0, 0, 0, 0.2);
+    text-align: center;
+    color: #fff;
+}
+
+.heading {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+@media screen and (max-width:1160px) {
+    .education-wrapper {
+        text-align: center;
+    }
+
+    .contact-wrapper {
+        text-align: center;
+    }
+
+    .button-wrapper {
+        text-align: center;
+    }
+}
